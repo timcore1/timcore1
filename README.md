@@ -7,7 +7,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=timcore1&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Привет, я Михаил Тарасов (Timcore)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -17,7 +17,7 @@
 
 ---
 
-:man_technologist: Обо мне:
+## 👤 Обо мне
 Я этичный хакер с 7-ми летним опытом в области кибербезопасности. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 Моя страсть - находить уязвимости, проводить пентесты и разрабатывать устойчивые к взлому системы. Я также активно участвую в CTF-соревнованиях и делюсь своими знаниями через блоги.
 
@@ -44,8 +44,27 @@
 ---
 
 ### :fire: Моя статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timcore1&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timcore1&theme=dark&background=000000)](https://git.io/streak-stats) 
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timcore1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📬 Связаться со мной
+- 🐦 VK: [@mikhail_tarasovcom](https://vk.com/mikhail_tarasovcom)
+- 💼 LinkedIn: [Профиль](https://www.linkedin.com/in/timcore)
+- 📧 Email: [admin@timcore.ru](mailto:admin@timcore.ru)
+
+## 🏆 Достижения
+- Победитель CTF [Первое место по России] [TryHackMe] (2021 год)
+- Опубликованные работы по кибербезопасности в моем блоге [https://www.timcore.ru]
+
+## 👀 Интересы
+- CTF (Capture The Flag) соревнования
+- Разработка инструментов для кибербезопасности
+- Обучение в области кибербезопасности
 <!--
 **timcore1/timcore1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
